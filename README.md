@@ -11,4 +11,4 @@ i live in tabriz
 [google.com](this is link to my teacher)
 
 
-[this is another page](/testfile)
+[this is another page](./testfile)
