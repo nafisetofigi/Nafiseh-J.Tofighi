@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header a.button{
+ display: none;
+}
+aside#sidebar {
+ display:none;
+}
