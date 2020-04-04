@@ -9,3 +9,6 @@ i live in tabriz
 
 ## this is title
 [google.com](this is link to my teacher)
+
+
+[this is another page](/testfile)
