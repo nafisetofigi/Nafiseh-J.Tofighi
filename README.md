@@ -3,14 +3,14 @@
 my name is nafise532365
 i live in tabriz 
 
-![A test image](image.JPG)
+
 
 # programminh languages
 **python**, C#, *Java*, SQL, blah blah
 
 <img src="image.JPG"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     width="100" height="100" />
 
 
 ## this is title
