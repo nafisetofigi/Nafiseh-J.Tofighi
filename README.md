@@ -20,14 +20,27 @@ i live in tabriz
 [this is another page](./testfile)
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
 div.absolute {
   position: absolute;
-  top: 80px;
+  top: 500px;
   right: 0;
   width: 200px;
   height: 100px;
   border: 3px solid #73AD21;
 }
+</style>
+</head>
+<body>
 
-<div class="absolute">This div element has position: absolute;</div>
+<h2>position: absolute;</h2>
+
+  <div class="absolute">This div element has position: absolute;</div>
 </div>
+
+</body>
+</html>
