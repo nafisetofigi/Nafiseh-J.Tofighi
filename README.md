@@ -3,6 +3,8 @@
 my name is nafise532365
 i live in tabriz 
 
+![A test image](image.png)
+
 # programminh languages
 **python**, C#, *Java*, SQL, blah blah
 
