@@ -10,7 +10,7 @@ i live in tabriz
 
 <img src="image.JPG"
      alt="Markdown Monster icon"
-     width="100" height="100" />
+     width="100" height="100" align="middle"/>
 
 
 ## this is title
