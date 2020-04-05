@@ -20,4 +20,14 @@ i live in tabriz
 [this is another page](./testfile)
 
 
+div.absolute {
+  position: absolute;
+  top: 80px;
+  right: 0;
+  width: 200px;
+  height: 100px;
+  border: 3px solid #73AD21;
+}
 
+<div class="absolute">This div element has position: absolute;</div>
+</div>
