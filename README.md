@@ -8,6 +8,10 @@ i live in tabriz
 # programminh languages
 **python**, C#, *Java*, SQL, blah blah
 
+<img src="image.JPG"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 
 ## this is title
 [google.com](this is link to my teacher)
