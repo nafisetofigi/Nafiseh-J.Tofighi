@@ -1,0 +1,3 @@
+[submodule "MUSIQ"]
+	path = MUSIQ
+	url = https://github.com/anse3832/MUSIQ.git
